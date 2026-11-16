@@ -1,23 +1,11 @@
 {
-  "checked": "2026-10-23T02:12:36.348994+00:00",
-  "method": "Independent live requests with TLS verification enabled; full cached text including references must occur contiguously after Unicode whitespace removal. Three attempts only for failed or mismatching URLs; successful URLs never retried. Source text remains unchanged.",
-  "summary": {
-    "urls": 155,
-    "sections": 232,
-    "matched": 232,
-    "failed_urls": 0
-  },
+  "checked": "2026-11-14T08:23:39.347784+00:00",
+  "method": "Live requests; cached text must appear contiguously in page after removing Unicode whitespace; words and punctuation unchanged. Hashes over cached UTF-8 text.",
   "results": [
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/1",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第一条 全人类都该被神定罪",
@@ -28,14 +16,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/10",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第十条 拣选出于神的美意",
@@ -46,14 +28,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/11",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第十一条 拣选的不变性",
@@ -64,14 +40,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/12",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第十二条 确信蒙拣选",
@@ -82,14 +52,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/13",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第十三条 确信蒙拣选的重要性",
@@ -100,14 +64,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/14",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第十四条 如何教导拣选的教义",
@@ -118,14 +76,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/15",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第十五条 圣经中所描述的弃绝",
@@ -136,14 +88,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/16",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第十六条 对弃绝教义的回应",
@@ -154,14 +100,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/17",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第十七条 死于婴幼期的信徒儿女",
@@ -172,14 +112,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/18",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第十八条 不是反对，而是赞美",
@@ -190,14 +124,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/19",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "错谬反驳",
@@ -208,14 +136,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/2",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第二条 神差爱子",
@@ -226,14 +148,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/3",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第三条 福音的传讲",
@@ -244,14 +160,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/4",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第四条 两种结局",
@@ -262,14 +172,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/5",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第五条 不信的缘由与信的源头",
@@ -280,14 +184,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/6",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第六条 神永恒的定旨",
@@ -298,14 +196,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/7",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第七条 拣选的定义",
@@ -316,14 +208,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/8",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第八条 拣选定旨的唯一性",
@@ -334,14 +220,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section1/9",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第九条 拣选不是基于神预见我们会信",
@@ -352,14 +232,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section2/1",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第一条 神的公义所要求的刑罚",
@@ -370,14 +244,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section2/10",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "错谬反驳",
@@ -388,14 +256,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section2/2",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第二条 基督满足了神的公义",
@@ -406,14 +268,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section2/3",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第三条 基督之死有无限价值",
@@ -424,14 +280,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section2/4",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第四条 基督之死无价的原因",
@@ -442,14 +292,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section2/5",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第五条 福音的普世宣告",
@@ -460,14 +304,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section2/6",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第六条 为何有人不信基督",
@@ -478,14 +316,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section2/7",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第七条 为何有人信基督",
@@ -496,14 +328,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section2/8",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第八条 基督之死的果效",
@@ -514,14 +340,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section2/9",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第九条 父神定旨的成全",
@@ -532,14 +352,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/1",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第一条 堕落带来的后果",
@@ -550,14 +364,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/10",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第十条 为何其他人蒙召就来到神面前",
@@ -568,14 +376,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/11",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第十一条 神是如何使人归信的",
@@ -586,14 +388,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/12",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第十二条 重生完全是神的工作",
@@ -604,14 +400,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/13",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第十三条 重生之道深不可测",
@@ -622,14 +412,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/14",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第十四条 为何信心是神赐的礼物",
@@ -640,14 +424,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/15",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第十五条 对待神恩典的正确态度",
@@ -658,14 +436,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/16",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第十六条 人的自由意志不是被剥夺了，而是被更新了",
@@ -676,14 +448,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/17",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第十七条 神使用方法使人重生",
@@ -694,14 +460,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/18",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "错谬反驳",
@@ -712,14 +472,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/2",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第二条 败坏的传播",
@@ -730,14 +484,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/3",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第三条 人的全然无能",
@@ -748,14 +496,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/4",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第四条 罪人本性中余光的不足",
@@ -766,14 +508,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/5",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第五条 律法的不足",
@@ -784,14 +520,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/6",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第六条 人需要福音",
@@ -802,14 +532,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/7",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第七条 为何福音只给了一些人，却不给其他人",
@@ -820,14 +544,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/8",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第八条 福音诚挚的呼召",
@@ -838,14 +556,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/9",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第九条 为何有人蒙召却没有来到神的面前",
@@ -856,14 +568,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section5/1",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第一条 重生的人并非已脱离罪性",
@@ -874,14 +580,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section5/10",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第十条 此确信的来源",
@@ -892,14 +592,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section5/11",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第十一条 此确信不总能感受到",
@@ -910,14 +604,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section5/12",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第十二条 此确信是追求圣洁的动力",
@@ -928,14 +616,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section5/13",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第十三条 此确信不会导致忽视敬虔",
@@ -946,14 +628,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section5/14",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第十四条 神使真信徒持守信仰所用的方法",
@@ -964,14 +640,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section5/15",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第十五条 此项教义为撒但所恨，为教会所爱",
@@ -982,14 +652,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section5/16",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "错谬反驳",
@@ -1000,19 +664,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section5/2",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "error": "HTTPSConnectionPool(host='ccifellowship.org', port=443): Max retries exceeded with url: /books/book-of-praise/confessions/canons-of-dort/section5/2 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))"
-        },
-        {
-          "attempt": 2,
-          "status": 200
-        }
-      ],
-      "error": "HTTPSConnectionPool(host='ccifellowship.org', port=443): Max retries exceeded with url: /books/book-of-praise/confessions/canons-of-dort/section5/2 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))",
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第二条 信徒每天都因软弱犯罪",
@@ -1023,14 +676,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section5/3",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第三条 神保守属他的人",
@@ -1041,14 +688,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section5/4",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第四条 真信徒也可能犯严重的罪",
@@ -1059,14 +700,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section5/5",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第五条 犯罪导致的一系列后果",
@@ -1077,14 +712,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section5/6",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第六条 神不许可属他的人迷失",
@@ -1095,14 +724,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section5/7",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第七条 神会再次更新属他的人，使他们悔改",
@@ -1113,14 +736,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section5/8",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第八条 三一神恩典的保守",
@@ -1131,14 +748,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section5/9",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第九条 信徒确信蒙保守",
@@ -1149,14 +760,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/lord-day-1",
-      "sections": 2,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 2,
       "matches": [
         {
           "title": "1．问：或生或死，你唯一的安慰是什么？",
@@ -1172,14 +777,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section1/lord-day-2",
-      "sections": 3,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 3,
       "matches": [
         {
           "title": "3．问：你从何处得知你的罪恶和愁苦呢？",
@@ -1200,14 +799,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section1/lord-day-3",
-      "sections": 3,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 3,
       "matches": [
         {
           "title": "6．问：神原本就把人造得如此邪恶和悖逆吗？",
@@ -1228,14 +821,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section1/lord-day-4",
-      "sections": 3,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 3,
       "matches": [
         {
           "title": "9．问：神在律法中要求人做他们所做不到的事，这岂不是不公平吗？",
@@ -1256,14 +843,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/lord-day-10",
-      "sections": 2,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 2,
       "matches": [
         {
           "title": "27．问：你如何理解“神的护理”？",
@@ -1279,14 +860,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/lord-day-5",
-      "sections": 4,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 4,
       "matches": [
         {
           "title": "12．问：既然按照神公义的审判，我们都当受到今生及永世的刑罚，那么我们怎样才能逃脱这刑罚，并再次蒙神恩宠呢？",
@@ -1312,14 +887,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/lord-day-6",
-      "sections": 4,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 4,
       "matches": [
         {
           "title": "16．问：为什么他必须是真人，且是无罪的人？",
@@ -1345,14 +914,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/lord-day-7",
-      "sections": 4,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 4,
       "matches": [
         {
           "title": "20．问：因着亚当，众人都灭亡了。那么是否藉着基督，众人都得救了呢？",
@@ -1378,14 +941,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/lord-day-8",
-      "sections": 2,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 2,
       "matches": [
         {
           "title": "24．问：这一信经是怎样划分的呢？",
@@ -1401,14 +958,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/lord-day-9",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "26．问：当你宣告“我信神，全能的父，创造天地的主”时，你相信什么？",
@@ -1419,14 +970,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part1/lord-day-11",
-      "sections": 2,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 2,
       "matches": [
         {
           "title": "29．问：为什么神的儿子被称为“耶稣”，即救主呢？",
@@ -1442,14 +987,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part1/lord-day-12",
-      "sections": 2,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 2,
       "matches": [
         {
           "title": "31．问：为什么称他为“基督”，即受膏者呢？",
@@ -1465,14 +1004,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part1/lord-day-13",
-      "sections": 2,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 2,
       "matches": [
         {
           "title": "33．问：既然我们也是神的儿女，为什么基督还被称为神的独生子呢？",
@@ -1488,14 +1021,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part1/lord-day-14",
-      "sections": 2,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 2,
       "matches": [
         {
           "title": "35．问：你宣告说“因圣灵感孕，从童贞女马利亚所生”，这句话是什么意思？",
@@ -1511,14 +1038,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part1/lord-day-15",
-      "sections": 3,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 3,
       "matches": [
         {
           "title": "37．问：你如何理解他“受难”？",
@@ -1539,14 +1060,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part1/lord-day-16",
-      "sections": 5,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 5,
       "matches": [
         {
           "title": "40．问：基督为什么必须自己卑微， 以至于死呢？",
@@ -1577,14 +1092,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part1/lord-day-17",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "45．问：基督的复活使我们得到了哪些益处呢？",
@@ -1595,14 +1104,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part1/lord-day-18",
-      "sections": 4,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 4,
       "matches": [
         {
           "title": "46．问：你如何理解他“升天”？",
@@ -1628,14 +1131,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part1/lord-day-19",
-      "sections": 3,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 3,
       "matches": [
         {
           "title": "50．问：为什么加上“坐在全能父神的右边”呢？",
@@ -1656,14 +1153,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part2/lord-day-20",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "53．问：论到圣灵，你相信什么？",
@@ -1674,14 +1165,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part2/lord-day-21",
-      "sections": 3,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 3,
       "matches": [
         {
           "title": "54．问：论到“圣而公之教会”，你相信什么？",
@@ -1702,14 +1187,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part2/lord-day-22",
-      "sections": 2,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 2,
       "matches": [
         {
           "title": "57．问：“身体复活”带给你什么安慰？",
@@ -1725,14 +1204,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part3/lord-day-23",
-      "sections": 3,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 3,
       "matches": [
         {
           "title": "59．问：相信这一信经所宣告的内容对你有什么帮助？",
@@ -1753,14 +1226,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part3/lord-day-24",
-      "sections": 3,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 3,
       "matches": [
         {
           "title": "62．问：为什么我们的善行不能成为我们在神面前的义，或者至少是部分的义呢？",
@@ -1781,14 +1248,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part4/lord-day-25",
-      "sections": 4,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 4,
       "matches": [
         {
           "title": "65．问：如此说来，我们唯独因信才有份于基督及其一切的恩惠。那么这信是从何而来的呢？",
@@ -1814,14 +1275,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part5/lord-day-26",
-      "sections": 3,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 3,
       "matches": [
         {
           "title": "69．问：洗礼是如何向你表明并印证基督在十字架上一次的献祭于你有益的呢？",
@@ -1842,14 +1297,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part5/lord-day-27",
-      "sections": 3,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 3,
       "matches": [
         {
           "title": "72．问：外在的水洗能除去罪吗？",
@@ -1870,14 +1319,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part6/lord-day-28",
-      "sections": 3,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 3,
       "matches": [
         {
           "title": "75．问：圣餐是如何向你表明并印证，你有份于基督在十字架上一次的献祭及其一切恩惠的呢？",
@@ -1898,14 +1341,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part6/lord-day-29",
-      "sections": 2,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 2,
       "matches": [
         {
           "title": "78．问：那么，这饼和酒真的是变成基督的身体和宝血了吗？",
@@ -1921,14 +1358,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part6/lord-day-30",
-      "sections": 3,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 3,
       "matches": [
         {
           "title": "80．问：圣餐与天主教的弥撒有什么不同？",
@@ -1949,14 +1380,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part6/lord-day-31",
-      "sections": 3,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 3,
       "matches": [
         {
           "title": "83．问：什么是天国的钥匙？",
@@ -1977,14 +1402,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/lord-day-32",
-      "sections": 2,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 2,
       "matches": [
         {
           "title": "86．问：既然我们不是靠自己的任何功德，而是唯独因着基督的恩典从愁苦中得拯救的，那么，为什么我们还要行善呢？",
@@ -2000,14 +1419,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/lord-day-33",
-      "sections": 4,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 4,
       "matches": [
         {
           "title": "88．问：什么是真正的悔改或归正呢？",
@@ -2033,14 +1446,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part1/lord-day-34",
-      "sections": 4,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 4,
       "matches": [
         {
           "title": "92．问：什么是神的律法？",
@@ -2066,14 +1473,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part1/lord-day-35",
-      "sections": 3,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 3,
       "matches": [
         {
           "title": "96．问：神在第二条诫命中吩咐了什么？",
@@ -2094,14 +1495,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part1/lord-day-36",
-      "sections": 2,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 2,
       "matches": [
         {
           "title": "99．问：神在第三条诫命中吩咐了什么？",
@@ -2117,14 +1512,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part1/lord-day-37",
-      "sections": 2,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 2,
       "matches": [
         {
           "title": "101．问：那么，我们可以用敬虔的态度奉神的名起誓吗？",
@@ -2140,14 +1529,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part1/lord-day-38",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "103．问：神在第四条诫命中吩咐了什么？",
@@ -2158,14 +1541,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part1/lord-day-39",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "104．问：神在第五条诫命中吩咐了什么？",
@@ -2176,14 +1553,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part1/lord-day-40",
-      "sections": 3,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 3,
       "matches": [
         {
           "title": "105．问：神在第六条诫命中吩咐了什么？",
@@ -2204,19 +1575,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part1/lord-day-41",
-      "sections": 2,
-      "attempts": [
-        {
-          "attempt": 1,
-          "error": "HTTPSConnectionPool(host='ccifellowship.org', port=443): Max retries exceeded with url: /books/book-of-praise/confessions/heidelberg-catechism/section3/part1/lord-day-41 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))"
-        },
-        {
-          "attempt": 2,
-          "status": 200
-        }
-      ],
-      "error": "HTTPSConnectionPool(host='ccifellowship.org', port=443): Max retries exceeded with url: /books/book-of-praise/confessions/heidelberg-catechism/section3/part1/lord-day-41 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1006)')))",
       "status": 200,
+      "sections": 2,
       "matches": [
         {
           "title": "108．问：神在第七条诫命中教导我们什么？",
@@ -2232,14 +1592,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part1/lord-day-42",
-      "sections": 2,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 2,
       "matches": [
         {
           "title": "110．问：神在第八条诫命中禁止什么？",
@@ -2255,14 +1609,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part1/lord-day-43",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "112．问：神在第九条诫命中的要求是什么？",
@@ -2273,14 +1621,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part1/lord-day-44",
-      "sections": 3,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 3,
       "matches": [
         {
           "title": "113．问：神在第十条诫命中对我们有什么要求？",
@@ -2301,14 +1643,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part2/lord-day-45",
-      "sections": 4,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 4,
       "matches": [
         {
           "title": "116．问：为什么祷告对基督徒来说是必不可少的呢？",
@@ -2334,14 +1670,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part2/lord-day-46",
-      "sections": 2,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 2,
       "matches": [
         {
           "title": "120．问：为什么基督吩咐我们称呼神为“我们……的父”呢？",
@@ -2357,14 +1687,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part2/lord-day-47",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "122．问：主祷文中的第一个祈求是什么？",
@@ -2375,14 +1699,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part2/lord-day-48",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "123．问：第二个祈求是什么？",
@@ -2393,14 +1711,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part2/lord-day-49",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "124．问：第三个祈求是什么？",
@@ -2411,14 +1723,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part2/lord-day-50",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "125．问：第四个祈求是什么？",
@@ -2429,14 +1735,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part2/lord-day-51",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "126．问：第五个祈求是什么？",
@@ -2447,14 +1747,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section3/part2/lord-day-52",
-      "sections": 3,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 3,
       "matches": [
         {
           "title": "127．问：第六个祈求是什么？",
@@ -2475,14 +1769,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/1",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第一条 论只有一位神",
@@ -2493,14 +1781,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/10",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第十条 论耶稣基督是永活真神",
@@ -2511,14 +1793,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/11",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第十一条 论圣灵是永活真神",
@@ -2529,14 +1805,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/12",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第十二条 论万物被造，尤其是天使被造",
@@ -2547,14 +1817,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/13",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第十三条 论神的护理",
@@ -2565,14 +1829,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/14",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第十四条 论人的被造与堕落以及人不能行真善事",
@@ -2583,14 +1841,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/15",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第十五条 论原罪",
@@ -2601,14 +1853,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/16",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第十六条 论神的拣选",
@@ -2619,14 +1865,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/17",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第十七条 论对堕落之人的拯救",
@@ -2637,14 +1877,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/18",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第十八条 论耶稣基督道成肉身",
@@ -2655,14 +1889,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/19",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第十九条 论基督位格中的神人二性",
@@ -2673,14 +1901,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/2",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第二条 论神启示自己的方法",
@@ -2691,14 +1913,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/20",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第二十条 论神在基督里的公义与怜悯",
@@ -2709,14 +1925,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/21",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第二十一条 论我们大祭司基督的救赎",
@@ -2727,14 +1937,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/22",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第二十二条 论因信基督而称义",
@@ -2745,14 +1949,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/23",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第二十三条 论我们在神面前得称为义",
@@ -2763,14 +1961,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/24",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第二十四条 论我们的成圣与善行",
@@ -2781,14 +1973,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/25",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第二十五条 论基督成全了律法",
@@ -2799,14 +1985,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/26",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第二十六条 论基督的代求",
@@ -2817,14 +1997,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/27",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第二十七条 论圣而公之基督教会",
@@ -2835,14 +2009,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/28",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第二十八条 论加入教会的责任",
@@ -2853,14 +2021,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/29",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第二十九条 论真假教会的标志",
@@ -2871,14 +2033,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/3",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第三条 论圣经",
@@ -2889,14 +2045,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/30",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第三十条 论教会的管理",
@@ -2907,14 +2057,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/31",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第三十一条 论教会圣职",
@@ -2925,14 +2069,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/32",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第三十二条 论教会规章和教会纪律",
@@ -2943,14 +2081,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/33",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第三十三条 论圣礼",
@@ -2961,14 +2093,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/34",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第三十四条 论圣洗礼",
@@ -2979,14 +2105,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/35",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第三十五条 论圣餐",
@@ -2997,14 +2117,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/36",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第三十六条 论政府治理",
@@ -3015,14 +2129,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/37",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第三十七条 论末日审判",
@@ -3033,14 +2141,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/4",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第四条 论圣经正典",
@@ -3051,14 +2153,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/5",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第五条 论圣经的权威性",
@@ -3069,14 +2165,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/6",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第六条 论圣经正典与次经之间的区别",
@@ -3087,14 +2177,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/7",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第七条 论圣经的充分性",
@@ -3105,14 +2189,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/8",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第八条 论神的“三位”和“一体”",
@@ -3123,14 +2201,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/confessions/the-belgic-confession/9",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "第九条 三位一体论的圣经依据",
@@ -3141,14 +2213,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/creeds/apostles-creed",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "使徒信经全文",
@@ -3159,14 +2225,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/creeds/athanasian-creed",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "亚他那修信经全文",
@@ -3177,14 +2237,8 @@
     },
     {
       "url": "https://ccifellowship.org/books/book-of-praise/creeds/nicene-creed",
-      "sections": 1,
-      "attempts": [
-        {
-          "attempt": 1,
-          "status": 200
-        }
-      ],
       "status": 200,
+      "sections": 1,
       "matches": [
         {
           "title": "尼西亚信经全文",
@@ -3194,19 +2248,10 @@
       ]
     }
   ],
-  "previously_failed_urls": [
-    {
-      "url": "https://ccifellowship.org/books/book-of-praise/confessions/canons-of-dort/section3-4/16",
-      "current_complete_match": true
-    },
-    {
-      "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/lord-day-9",
-      "current_complete_match": true
-    },
-    {
-      "url": "https://ccifellowship.org/books/book-of-praise/confessions/heidelberg-catechism/section2/part6/lord-day-28",
-      "current_complete_match": true
-    }
-  ],
-  "checked_taipei": "2026-10-23T10:15:16.896257+08:00"
+  "summary": {
+    "urls": 155,
+    "sections": 232,
+    "matched": 232,
+    "errors": 0
+  }
 }

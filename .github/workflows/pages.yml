@@ -6,6 +6,7 @@ on:
       - 'content/**'
       - 'build.py'
       - 'edition_v2.py'
+      - 'atlas*'
       - 'reader*'
       - 'annotations.js'
       - 'v2-dialogs.html'

@@ -8,8 +8,8 @@ anchors={name:{e['id']for e in soup.select('[id]')}for name,soup in soups.items(
 for name,s in soups.items():
  ids=[e['id']for e in s.select('[id]')]
  if len(ids)!=len(set(ids)):errors.append([name,'duplicate ids'])
- for e in s.select('a[href],img[src],script[src],link[href]'):
-  u=urlsplit(e.get('href',e.get('src','')))
+ for e in s.select('a[href],img[src],script[src],link[href],source[src],video[poster]'):
+  u=urlsplit(e.get('href',e.get('src',e.get('poster',''))))
   if u.scheme or u.netloc:continue
   target=unquote(u.path)or name
   if not(D/target).exists():errors.append([name,'missing file',target])
